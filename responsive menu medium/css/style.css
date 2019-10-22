@@ -12,12 +12,15 @@
 
 
 
-  @media all and (max-width: 900px) {
+ 
+  @media all and (min-width:600px) {
+
+  }
+
+
+ @media all and (min-width: 900px) {
     
 
   
   }
   
-  @media all and (max-width:600px) {
-
-  }
